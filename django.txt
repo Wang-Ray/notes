@@ -1,3 +1,4 @@
+# Python安全编码指南 http://drops.wooyun.org/tips/10383
 Python==2.7.10
 
 MySQL==5.7.9		# root@localhost: &r)BXl1aeChE
@@ -21,4 +22,3 @@ python manage.py makemigrations report
 python manage.py migrate report
 
 python manage.py test report
-
